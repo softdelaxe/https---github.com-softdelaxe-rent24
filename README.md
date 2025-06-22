@@ -86,7 +86,7 @@ lib/
 ### Setup
 
 ```bash
-git clone https://github.com/delaxesoft/rent24.git
+git clone https://github.com/softdelaxe/https---github.com-softdelaxe-rent24
 cd rent24
 flutter pub get
 flutter run
